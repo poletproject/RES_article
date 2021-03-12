@@ -6,7 +6,8 @@ sample_data.csv - source data file for growth model fitting
 
 file_format.txt – description of input and output file formats
 
-When running R files, working directory should be set to one containing the respective 
+Set parameters within the fitting.R files and run it. When running R files, 
+working directory should be set to one containing the source and 
 data files.
 
 Packages necessary for running R code are listed within fitting.R.
